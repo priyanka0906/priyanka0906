@@ -1,6 +1,7 @@
 <h1 align="center">Hello <img src="https://github.com/priyanka0906/priyanka0906/blob/main/gifs/hi.gif" width="30px"> , I'm Priyanka </h1>
 
 <h3 align="left">Languages and Tools :</h3>
+
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
 <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
