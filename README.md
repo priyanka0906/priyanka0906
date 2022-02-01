@@ -18,6 +18,6 @@
 <a href="https://www.linkedin.com/in/priyanka-a455a6192/">
   <img align="left" alt="Priyanka's Linkdein" width="22px" src="https://github.com/priyanka0906/priyanka0906/blob/main/img/Linkedin.png" />
 </a>
-<a href="https://twitter.com/priyank56393129">
+<a href="https://twitter.com/_priyanka___03">
   <img align="left" alt="Priyanka's Twitter" width="22px" src="https://github.com/priyanka0906/priyanka0906/blob/main/img/tw.png" />
 </a>
